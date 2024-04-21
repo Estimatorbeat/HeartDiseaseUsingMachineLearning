@@ -34,7 +34,7 @@ To assess the performance of the machine learning model, the following evaluatio
 - **Precision: The proportion of correctly identified cases of heart disease among all patients classified as positive.
 - **Recall: The proportion of correctly identified cases of heart disease among all actual patients classified as postive.
 - **F1-score: The harmonic mean of precision and recall, providing a balance metric for model evaluation.
-- **Accuracy: Accuracy measures the overall correctness of the model's predictions.(both churn and non-churn).
+- **Accuracy: Accuracy measures the overall correctness of the model's predictions.(both heart disease and not).
   
 ## Key Insights
 The purpose of this project aims to develop an intelligent system capable of predicting the likelihood of a patients having heart disease.
