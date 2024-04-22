@@ -4,7 +4,7 @@
 
 
 ## Project Overview
-The "Heart Disease Using Machine Learning' project aims to develop an intelligent system capable of predicting the likelihood of a patient having heart disease. By leveraging advanced analytics and machine learning techniques on patients data, to accurately predict the likelihood of a patient having heart disease and implement targeted retention initiatives
+The "Heart Disease Using Machine Learning' project aims to develop an intelligent system capable of predicting the likelihood of a patient having heart disease. By leveraging advanced analytics and machine learning techniques on patients data, to accurately predict the likelihood of a patient having heart disease and create awareness concerning it.
 
 ## Project Objective
 The primary objective of this project is to build and train a robust machine learning model that can accurately detect if Patient is likely to have heart disease. The model will be designed to accurately predict the likelihood of a patient having heart disease.
